@@ -1,0 +1,6 @@
+widhth*height = 1024 * 768; size=132210; rate=1.34
+smen_len = 3145728
+x = 1024 y = 768
+photo is ok
+32
+24 to 32
